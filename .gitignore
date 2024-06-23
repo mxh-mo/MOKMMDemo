@@ -1,0 +1,14 @@
+*.iml
+.gradle
+.idea
+.DS_Store
+build
+./app/build
+captures
+.externalNativeBuild
+.cxx
+local.properties
+xcuserdata
+epc
+autopushremote
+/autopushremote/*
