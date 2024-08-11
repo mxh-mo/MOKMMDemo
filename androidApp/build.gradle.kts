@@ -45,4 +45,5 @@ dependencies {
     implementation(libs.compose.material3)
     implementation(libs.androidx.activity.compose)
     debugImplementation(libs.compose.ui.tooling)
+    implementation("androidx.lifecycle:lifecycle-viewmodel-compose:{2.8.4}")
 }
